@@ -1,0 +1,30 @@
+body{
+        background-color:papayawhip;
+            }
+
+.jumbotron {
+     background-color:greenyellow;
+}
+.event
+{
+    color: purple;
+}
+.event {font-family: 'Creepster', cursive;
+        font-size:80px;
+        color:purple;
+
+}
+.buy{
+    font-family: 'Creepster', cursive;
+    color:limegreen;
+}
+.gallery{font-family: 'Creepster', cursive;
+color:limegreen;}
+
+.events{font-family: 'Creepster', cursive;
+font-size:80px;
+color:limegreen;}
+.ticket
+{font-family: 'Creepster', cursive;
+font-size:80px;
+color:limegreen}
